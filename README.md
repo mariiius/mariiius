@@ -10,7 +10,8 @@
 </p>
 
 
-Me especializo en HTML, CSS, JavaScript, Git, React, cuento con otras habilidades en Diseño de Productos Digitales 
+<p align="center"> Me especializo en HTML, CSS, JavaScript, Git, React, cuento con otras habilidades en Diseño de Productos Digitales. </p>
+
 
 Me considero una persona autodidacta, que trata de aumentar mi conocimiento a través de diferentes plataformas en línea y lee varios libros sobre diferentes tecnologías y temas relacionados con la industria tecnológica, asisto y participo regularmente en eventos para desarrolladores.
 
