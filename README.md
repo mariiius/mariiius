@@ -4,8 +4,8 @@
 <h3 align="center">Frontend Developer / UI</h3>
 
 <p align="center">
-  <a href="https://twitter.com/mariuscaribe">
-  <img align="center" alt="Mario Fernandez | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" target="_blank" />
+  <a href="https://twitter.com/mariuscaribe" target="__blank">
+  <img align="center" alt="Mario Fernandez | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 </p>
 
