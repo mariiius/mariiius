@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center"> Hi, I am 🧑🏾‍💻 Mario Fernandez Serrano</h2>
+<h2 align="center"> Hi, I am 🧑🏾‍💻 Mario Fdez Serrano</h2>
 <h3 align="center">Frontend Developer / UI</h3>
 
 <p align="center">
