@@ -3,12 +3,10 @@
 <h2 align="center"> Hi I am 👋 Mario Fernandez Serrano</h2>
 <h3 align="center">Frontend Developer / UI</h3>
 
-<p align="center">
+
   <a align="center" href="https://twitter.com/mariuscaribe"> <img align="left" alt="Mario Fernandez | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-</p>
 
----
 Me especializo en HTML, CSS, JavaScript, Git, React, cuento con otras habilidades en Diseño de Productos Digitales 
 
 Me considero una persona autodidacta, que trata de aumentar mi conocimiento a través de diferentes plataformas en línea y lee varios libros sobre diferentes tecnologías y temas relacionados con la industria tecnológica, asisto y participo regularmente en eventos para desarrolladores.
