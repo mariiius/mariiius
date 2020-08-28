@@ -9,13 +9,13 @@
 </a>
 </p>
 
-#### <p align="center"> Me especializo en HTML, CSS, JavaScript, Git, React, cuento con otras habilidades en Diseño de Productos Digitales. </p>
+#### <p align="center">I am specialize in HTML, CSS, JavaScript, Git, React, I have other skills in Digital Product Design</p>
 
 
-Me considero una persona autodidacta, que trata de aumentar mi conocimiento, me gusta leer libros sobre temas relacionados con la industria tecnológica, asisto y participo regularmente en eventos para desarrolladores.
+I consider myself a self-taught person, who tries to increase my knowledge, I like to read books on topics related to the technology industry, I attend and regularly participate in events for developers
 
-Esto me ha permitido conocer y colaborar en las comunidades del ecosistema tecnológico,
-adquiriendo habilidad técnicas y los elementos teóricos y prácticas para realizar proyectos en cualquier formato que lo requiera.
+This has allowed me to know and collaborate in the communities of the technological ecosystem,
+acquiring technical skills and the theoretical and practical elements to carry out projects in any format that requires it.
 
 <!--
 **mariuscaribe/mariuscaribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
