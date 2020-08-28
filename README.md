@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+<h2 align="center"> Hi I am 👋 Mario Fernandez Serrano</h2>
+<h3 align="center">Frontend Developer / UI</h3>
+<p align="center">
+  <a href="https://twitter.com/mariuscaribe">Twitter</a>
+</p>
+
+---
+Me especializo en HTML, CSS, JavaScript, Git, React, cuento con otras habilidades en Diseño de Productos Digitales 
+---
+Me considero una persona autodidacta, que trata de aumentar mi conocimiento a través de diferentes plataformas en línea y lee varios libros sobre diferentes tecnologías y temas relacionados con la industria tecnológica, asisto y participo regularmente en eventos para desarrolladores.
+
+Esto me ha permitido conocer y colaborar en las comunidades del ecosistema tecnológico,
+adquiriendo habilidad técnicas y los elementos teóricos y prácticas para realizar en cualquier formato que lo requiera.
+
 <!--
 **mariuscaribe/mariuscaribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
