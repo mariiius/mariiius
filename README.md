@@ -8,7 +8,7 @@
   <img align="center" alt="Mario Fernandez | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 </p>
----
+
 
 Me especializo en HTML, CSS, JavaScript, Git, React, cuento con otras habilidades en Diseño de Productos Digitales 
 
