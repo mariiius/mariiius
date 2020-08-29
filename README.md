@@ -9,7 +9,7 @@
 </a>
 </p>
 
-#### <p align="center">I am specialize in HTML, CSS, JavaScript, Git, React, I have other skills in Digital Product Design</p>
+#### <p align="center">I am specialize in HTML, CSS, JavaScript, Git and GitHub,  React, Webpack I have other skills in Digital Product Design</p>
 
 
 I consider myself a self-taught person, who tries to increase my knowledge, I like to read books on topics related to the technology industry, I attend and regularly participate in events for developers
